@@ -1,0 +1,1 @@
+Changed one line — where the image is written — and the $100 news-image entry the grader had rejected was ready to submit again.
